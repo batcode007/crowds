@@ -1,5 +1,5 @@
 correct_answer	answer_type	asset_type	asset_file	possible_answers	randomize_answers
-IND	Multiple choice	Text	ind_vs_pak.txt	IND,PAK,Draw,N/R    TRUE
+IND	Multiple choice	Text	ind_vs_pak.txt	IND,PAK,Draw,N/R  TRUE
 WI	Multiple choice	Text	wi_vs_pak.txt	WI,PAK,Draw,N/R   TRUE
 SA	Multiple choice	Text	sa_vs_aus.txt	SA,AUS,Draw,N/R TRUE
 NZ	Multiple choice	Text	nz_vs_sa.txt	NZ,SA,Draw,N/R  TRUE
