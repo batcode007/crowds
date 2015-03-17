@@ -1,15 +1,15 @@
 correct_answer	answer_type	asset_type	asset_file	possible_answers	randomize_answers
-IND	Multiple choice	Text	ind_vs_pak.txt	IND,PAK,Draw,N/R    TRUE
+IND	Multiple choice	Text	ind_vs_pak.txt	IND,PAK,Draw,N/R  TRUE
 WI	Multiple choice	Text	wi_vs_pak.txt	WI,PAK,Draw,N/R   TRUE
-SA	Multiple choice	Text	sa_vs_aus.txt	SA,AUS,Draw,N/R	TRUE
-NZ	Multiple choice	Text	nz_vs_sa.txt	NZ,SA,Draw,N/R	TRUE
-IRE	Multiple choice	Text	ire_vs_uae.txt	IRE,UAE,Draw,N/R	TRUE
-AUS	Multiple choice	Text	ind_vs_aus.txt	AUS,IND,Draw,N/R	TRUE
+SA	Multiple choice	Text	sa_vs_aus.txt	SA,AUS,Draw,N/R TRUE
+NZ	Multiple choice	Text	nz_vs_sa.txt	NZ,SA,Draw,N/R  TRUE
+IRE	Multiple choice	Text	ire_vs_uae.txt	IRE,UAE,Draw,N/R  TRUE
+AUS	Multiple choice	Text	ind_vs_aus.txt	AUS,IND,Draw,N/R  TRUE
 NZ	Multiple choice	Text	ind_vs_nz.txt	NZ,IND,Draw,N/R	TRUE
 IND	Multiple choice	Text	ind_vs_uae.txt	IND,UAE,Draw,N/R	TRUE
 IND	Multiple choice	Text	wi_vs_ind.txt	WI,IND,Draw,N/R	TRUE
 NZ	Multiple choice	Text	nz_vs_ire.txt	NZ,IRE,Draw,N/R	TRUE
-PAK	Multiple choice	Text	pak_vs_uae.txt	PAK,UAE,Draw,N/R	TRUE
+PAK	Multiple choice	Text	pak_vs_uae.txt	PAK,UAE,Draw,N/R  TRUE
 NZ	Multiple choice	Text	nz_vs_aus.txt	NZ,AUS,Draw,N/R	TRUE
 N/R	Multiple choice	Text	aus_vs_ire.txt	IRE,AUS,Draw,N/R	TRUE
 AUS	Multiple choice	Text	pak_vs_aus.txt	AUS,PAK,Draw,N/R	TRUE
